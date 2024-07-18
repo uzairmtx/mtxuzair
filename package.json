@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "https://github.com/uzairmtx/mtxuzair/tree/main/issues"
 	},
 	"keywords": [
 		"bot",
@@ -28,9 +28,9 @@
 	"author": "MrUzairXxX",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/uzairmtx/mtxuzair/tree/main"
+		"url": "https://github.com/uzairmtx/mtxuzair/tree/main/issues"
 	},
-	"homepage": "https://github.com/uzairmtx/mtxuzair/tree/main",
+	"homepage": "https://github.com/uzairmtx/mtxuzair/tree/main/issues",
 	"dependencies": {
 		"@miraipr0ject/assets": "",
 		"@replit/database": "^2.0.2",
